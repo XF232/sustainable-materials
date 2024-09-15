@@ -1,9 +1,9 @@
 instructor:
-- name: Alpha Beta
-  github: https://github.com/atharva-chandak #instrucor's github link
-  email: intructor@gmail.com 
+- name: Xiaolei Feng
+  github: https://xf232.github.io/sustainable-materials/ #instrucor's github link
+  email: xiaolei.feng@ntu.edu.sg
   img: assets/instructor.svg
-  consultation: 'Sat 6:30 - 7:30pm, 6116A'
+  consultation: 'Sat 6:30 - 7:30pm, Teams'
 
 - name: Gamma Delta
   github: https://github.com/atharva-chandak 

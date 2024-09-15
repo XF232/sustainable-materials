@@ -3,7 +3,7 @@ email: #xiaolei.feng@ntu.edu.sg
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     This course MS4667 is offered by School of Materials Science and Engineering at Nanyang Technological University, Singapore. This course webiste is created using a jekyll template.
 baseurl: "orca_web_template"   # specify the subpath of your site
-url: "https://atharva-chandak.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
+url: "https://xf232.github.io/sustainable-materials/" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: #
 github_username: #
 theme: minima
